@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "posts":
     {
       "id": 1,
       "Setting": "something",
       "Value" : "somevalue"
     }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
